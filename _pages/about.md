@@ -9,7 +9,6 @@ profile:
   image: prof_pic.jpg
   address: >
     <p>Email: jssong@caltech.edu</p>
-    <p>[CV](https://github.com/jialin-song/jialin-song.github.io/blob/gh-pages/assets/pdf/CV.pdf)</p>
 
 news: false
 social: false
@@ -18,6 +17,9 @@ social: false
 I am a PhD student at Caltech advised by Professor [Yisong Yue](http://www.yisongyue.com/index.php){:target="\_blank"}. I graduated with a bachelor degree majoring in computer science and mathematics from University of Toronto where I worked with Professor [Michael Brudno](http://www.cs.toronto.edu/~brudno/public/){:target="\_blank"}, Professor [Faith Ellen](http://www.cs.toronto.edu/~faith/){:target="\_blank"} and Professor [Kumar Murty](http://murty.math.toronto.edu/){:target="\_blank"}.
 
 My research interest is to apply policy learning (reinforcement/imitation learning) techniques to solve various optimization problems from combinatorial and Bayesian domains.
+
+[CV](https://github.com/jialin-song/jialin-song.github.io/blob/gh-pages/assets/pdf/CV.pdf){:target="\_blank"}
+
 
 
 
