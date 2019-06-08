@@ -9,6 +9,7 @@ profile:
   image: prof_pic.jpg
   address: >
     <p>Email: jssong@caltech.edu</p>
+    <p>[CV](https://github.com/jialin-song/jialin-song.github.io/blob/gh-pages/assets/pdf/CV.pdf)</p>
 
 news: false
 social: false
