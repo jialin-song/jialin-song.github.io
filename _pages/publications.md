@@ -23,7 +23,7 @@ Jialin Song, Yuxin Chen, Yisong Yue\\
 AISTATS 2019
 
 **Onsets and Frames: Dual-Objective Piano Transcription**\\
-Curtis Hawthorne\*, Erich Elsen\*, Jialin Song\*, Adam Roberts, Ian Simon, Collin Raffel, Jesse Engel, Sageev Oore, Douglas Eck\\
+Curtis Hawthorne\*, Erich Elsen\*, Jialin Song\*, Adam Roberts, Ian Simon, Colin Raffel, Jesse Engel, Sageev Oore, Douglas Eck\\
 [[arxiv](https://arxiv.org/abs/1710.11153)][[blog](https://magenta.tensorflow.org/onsets-frames)][[github](https://github.com/tensorflow/magenta/tree/master/magenta/models/onsets_frames_transcription)]\\
 ISMIR 2018
 
