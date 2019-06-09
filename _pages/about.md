@@ -18,8 +18,3 @@ I am a PhD student at Caltech advised by Professor [Yisong Yue](http://www.yison
 
 My research interest is to apply policy learning (reinforcement/imitation learning) techniques to solve various optimization problems from combinatorial and Bayesian domains.
 
-[CV](https://github.com/jialin-song/jialin-song.github.io/blob/gh-pages/assets/pdf/CV.pdf){:target="\_blank"}
-
-
-
-
