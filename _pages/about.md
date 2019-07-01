@@ -19,3 +19,5 @@ I graduated with a bachelor's degree majoring in computer science and mathematic
 
 My research interest is to apply policy learning (reinforcement/imitation learning) techniques to solve optimization problems from combinatorial and Bayesian domains.
 
+
+ <a href="assets/pdf/CV.pdf">CV</a> 
