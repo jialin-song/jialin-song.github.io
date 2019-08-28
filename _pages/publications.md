@@ -14,7 +14,8 @@ Jialin Song\*, Ravi Lanka\*, Albert Zhao, Aadyot Bhatnagar, Yisong Yue, Masahiro
 **Co-training for Policy Learning**  
 Jialin Song, Ravi Lanka, Yisong Yue, Masahiro Ono  
 (Oral Presentation)  
-[<a href="/assets/pdf/UAI_2019_Co_training_for_Policy_Learning.pdf">pdf</a>][<a href="/assets/pdf/UAI_2019_Co_training_for_Policy_Learning_Supplementary.pdf">supplementary</a>]\\
+[<a href="/assets/pdf/UAI_2019_Co_training_for_Policy_Learning.pdf">pdf</a>][<a href="/assets/pdf/UAI_2019_Co_training_for_Policy_Learning_Supplementary.pdf">supplementary</a>]
+[<a href="https://github.com/ravi-lanka-4/CoPiEr">code</a>]\\
 UAI 2019
 
 **A General Framework for Multi-fidelity Bayesian Optimization with Gaussian Processes**\\
