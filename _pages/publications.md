@@ -5,16 +5,17 @@ title: publications
 ---
 
 ### Pre-print
-**A General Large Neighborhood Search Framework for Solving Integer Linear Programs** \\
-Jialin Song, Ravi Lanka, Yisong Yue, Bistra Dilkina \\
-[[arxiv](https://arxiv.org/abs/2004.00422)][[colab](https://colab.research.google.com/drive/1AaxzBHroaARlpYH158RohJ4yloYLE_2i?usp=sharing)]
-
 **Learning to Search via Retrospective Imitation**\\
 Jialin Song\*, Ravi Lanka\*, Albert Zhao, Aadyot Bhatnagar, Yisong Yue, Masahiro Ono\\
-[[arxiv](https://arxiv.org/abs/1804.00846)][[colab](https://colab.research.google.com/drive/1-vtfDzHFHuLmAz7fwIlZvLjk4MtatxYn?usp=sharing)]
+[[arxiv](https://arxiv.org/abs/1804.00846)][[colab](https://colab.research.google.com/drive/1AaxzBHroaARlpYH158RohJ4yloYLE_2i?usp=sharing)]
 
 
 ### Conference Publications
+**A General Large Neighborhood Search Framework for Solving Integer Linear Programs** \\
+Jialin Song, Ravi Lanka, Yisong Yue, Bistra Dilkina \\
+[[arxiv](https://arxiv.org/abs/2004.00422)][[colab](https://colab.research.google.com/drive/1-vtfDzHFHuLmAz7fwIlZvLjk4MtatxYn?usp=sharing)] \\
+NeurIPS 2020
+
 **Co-training for Policy Learning**\\
 Jialin Song, Ravi Lanka, Yisong Yue, Masahiro Ono \\
 (Oral Presentation) \\
