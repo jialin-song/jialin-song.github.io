@@ -11,6 +11,16 @@ Jialin Song\*, Ravi Lanka\*, Albert Zhao, Aadyot Bhatnagar, Yisong Yue, Masahiro
 
 
 ### Conference Publications
+**Learning to Make Decisions via Submodular Regularization** \\
+Ayya Alieva, Aiden Aceves, Jialin Song, Stephen Mayo, Yisong Yue, Yuxin Chen \\
+[[pdf](https://openreview.net/pdf?id=ac288vnG_7U)] \\
+ICLR 2021
+
+**Machine Learning Based Path Planning for Improved Rover Navigation**\\
+Neil Abcouwer, Shreyansh Daftry, Siddarth Venkatraman, Tyler del Sesto, Olivier Toupet, Ravi Lanka, Jialin Song, Yisong Yue, Masahiro Ono \\
+[[arxiv](https://arxiv.org/abs/2011.06022)][[video](https://www.youtube.com/watch?v=iv-RjDHWQks&feature=youtu.be)]\\
+IEEE Aerospace Conference (AeroConf) 2021
+
 **A General Large Neighborhood Search Framework for Solving Integer Linear Programs** \\
 Jialin Song, Ravi Lanka, Yisong Yue, Bistra Dilkina \\
 [[arxiv](https://arxiv.org/abs/2004.00422)][[colab](https://colab.research.google.com/drive/1-vtfDzHFHuLmAz7fwIlZvLjk4MtatxYn?usp=sharing)] \\
