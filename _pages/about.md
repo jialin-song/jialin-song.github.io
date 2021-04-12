@@ -6,7 +6,7 @@ description: PhD Candidate @ Computing + Mathematical Sciences, Caltech
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: pic2.jpg
   address: >
     <p>Email: jssong@caltech.edu</p>
 
