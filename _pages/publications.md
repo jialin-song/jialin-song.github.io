@@ -11,6 +11,11 @@ Jialin Song\*, Ravi Lanka\*, Albert Zhao, Aadyot Bhatnagar, Yisong Yue, Masahiro
 
 
 ### Conference Publications
+**Learning Pseudo-Backdoors for Mixed Integer Programs**\\
+Aaron Ferber, Jialin Song, Bistra Dilkina, Yisong Yue \\
+[pdf forthcoming] \\
+SOCS 2021
+
 **Learning to Make Decisions via Submodular Regularization** \\
 Ayya Alieva, Aiden Aceves, Jialin Song, Stephen Mayo, Yisong Yue, Yuxin Chen \\
 [[pdf](https://openreview.net/pdf?id=ac288vnG_7U)] \\
