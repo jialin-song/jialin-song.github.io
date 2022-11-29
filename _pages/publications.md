@@ -11,10 +11,15 @@ Jialin Song\*, Ravi Lanka\*, Albert Zhao, Aadyot Bhatnagar, Yisong Yue, Masahiro
 
 
 ### Conference Publications
+**MLNav: Learning to Safely Navigate on Martian Terrains**\\
+Shreyansh Daftry, Neil Abcouwer, Tyler Del Sesto, Siddarth Venkatraman, Jialin Song, Lucas Igel, Amos Byon, Ugo Rosolia, Yisong Yue, Masahiro Ono\\
+[[arxiv](https://arxiv.org/abs/2203.04563)][[journal](https://ieeexplore.ieee.org/document/9729506)][[video](https://www.youtube.com/watch?v=5LhAry9zIB4)]\\
+IEEE Robotics and Automation Letters (RA-L) 2022
+
 **Learning Pseudo-Backdoors for Mixed Integer Programs**\\
 Aaron Ferber, Jialin Song, Bistra Dilkina, Yisong Yue \\
-[pdf forthcoming] \\
-SOCS 2021
+[[arxiv](https://arxiv.org/abs/2106.05080)][[Springer](https://link.springer.com/chapter/10.1007/978-3-031-08011-1_8)] \\
+CPAIOR 2022
 
 **Learning to Make Decisions via Submodular Regularization** \\
 Ayya Alieva, Aiden Aceves, Jialin Song, Stephen Mayo, Yisong Yue, Yuxin Chen \\
@@ -49,6 +54,15 @@ Curtis Hawthorne\*, Erich Elsen\*, Jialin Song\*, Adam Roberts, Ian Simon, Colin
 ISMIR 2018
 
 ### Workshop Publications
+**Multi-objective Reinforcement Learning with Adaptive Pareto Reset for Prefix Adder Design**\\
+Jialin Song, Rajarshi Roy, Jonathan Raiman, Robert Kirby, Neel Kant, Saad Godil, Bryan Catanzaro\\
+Workshop on ML for Systems, NeurIPS 2022
+
+**Learning Region of Interest for Bayesian Optimization with Adaptive Level-Set Estimation**\\
+Fengxue Zhang, Jialin Song, James Bowden, Alexander Ladd, Yisong Yue, Thomas Desautels, Yuxin Chen\\
+[[pdf](https://realworldml.github.io/files/cr/paper63.pdf)]\\
+Workshop on Adaptive Experimental Design and Active Learning in the Real World, ICML 2022
+
 **Multi-task Bayesian Optimization via Gaussian Process Upper Confidence Bound**\\
 Sihui Dai, Jialin Song, Yisong Yue \\
 [[pdf](https://realworldml.github.io/files/cr/35_Camera_Ready_RealML.pdf)][[slides](https://realworldml.github.io/files/slides/35_mt_gp_ucb_ppt.pdf)]\\
