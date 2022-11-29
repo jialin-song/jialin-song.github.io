@@ -14,7 +14,7 @@ news: false
 social: false
 ---
 
-I am a research scientist on the Applied Deep Learning Group at NVIDIA, working on machine learning for hardware designs.
+I am a research scientist on the Applied Deep Learning Research team at NVIDIA, working on machine learning for hardware designs.
 I received my PhD from Caltech advised by Professor [Yisong Yue](http://www.yisongyue.com/index.php){:target="\_blank"}.\\
 I graduated with a bachelor's degree majoring in computer science and mathematics from University of Toronto where I worked with Professor [Michael Brudno](http://www.cs.toronto.edu/~brudno/public/){:target="\_blank"}, Professor [Faith Ellen](http://www.cs.toronto.edu/~faith/){:target="\_blank"} and Professor [Kumar Murty](http://murty.math.toronto.edu/){:target="\_blank"}.
 
