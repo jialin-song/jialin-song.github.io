@@ -6,7 +6,7 @@ title: publications
 
 ### Conference Publications
 **CircuitVAE: Efficient and Scalable Latent Circuit Optimization**\\
-Jialin Song*, Aidan Swope*, Robert Kirby, Rajarshi Roy, Saad Godil, Jonathan Raiman, Bryan Catanzaro\\
+Jialin Song\*, Aidan Swope\*, Robert Kirby, Rajarshi Roy, Saad Godil, Jonathan Raiman, Bryan Catanzaro\\
 Design Automation Conference (DAC) 2024
 
 **Learning Regions of Interest for Bayesian Optimization with Adaptive Level-Set Estimation**\\
@@ -58,7 +58,7 @@ ISMIR 2018
 
 ### Workshop Publications
 **CircuitVAE: Efficient and Scalable Latent Circuit Optimization**\\
-Jialin Song*, Aidan Swope*, Robert Kirby, Rajarshi Roy, Saad Godil, Jonathan Raiman, Bryan Catanzaro\\
+Jialin Song\*, Aidan Swope\*, Robert Kirby, Rajarshi Roy, Saad Godil, Jonathan Raiman, Bryan Catanzaro\\
 [[pdf](https://openreview.net/forum?id=FpMRFG3z2Q)]\\
 Workshop on Adaptive Experimental Design and Active Learning in the Real World, NeurIPS 2023
 
