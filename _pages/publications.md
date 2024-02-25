@@ -4,13 +4,16 @@ permalink: /publications/
 title: publications
 ---
 
-### Pre-print
-**Learning to Search via Retrospective Imitation**\\
-Jialin Song\*, Ravi Lanka\*, Albert Zhao, Aadyot Bhatnagar, Yisong Yue, Masahiro Ono\\
-[[arxiv](https://arxiv.org/abs/1804.00846)][[colab](https://colab.research.google.com/drive/1AaxzBHroaARlpYH158RohJ4yloYLE_2i?usp=sharing)]
-
-
 ### Conference Publications
+**CircuitVAE: Efficient and Scalable Latent Circuit Optimization**\\
+Jialin Song*, Aidan Swope*, Robert Kirby, Rajarshi Roy, Saad Godil, Jonathan Raiman, Bryan Catanzaro\\
+Design Automation Conference (DAC) 2024
+
+**Learning Regions of Interest for Bayesian Optimization with Adaptive Level-Set Estimation**\\
+Fengxue Zhang, Jialin Song, James C Bowden, Alexander Ladd, Yisong Yue, Thomas Desautels, Yuxin Chen\\
+[[pdf](https://openreview.net/pdf?id=6aB43K50T0)]\\
+ICML 2023
+
 **MLNav: Learning to Safely Navigate on Martian Terrains**\\
 Shreyansh Daftry, Neil Abcouwer, Tyler Del Sesto, Siddarth Venkatraman, Jialin Song, Lucas Igel, Amos Byon, Ugo Rosolia, Yisong Yue, Masahiro Ono\\
 [[arxiv](https://arxiv.org/abs/2203.04563)][[journal](https://ieeexplore.ieee.org/document/9729506)][[video](https://www.youtube.com/watch?v=5LhAry9zIB4)]\\
@@ -54,8 +57,14 @@ Curtis Hawthorne\*, Erich Elsen\*, Jialin Song\*, Adam Roberts, Ian Simon, Colin
 ISMIR 2018
 
 ### Workshop Publications
+**CircuitVAE: Efficient and Scalable Latent Circuit Optimization**\\
+Jialin Song*, Aidan Swope*, Robert Kirby, Rajarshi Roy, Saad Godil, Jonathan Raiman, Bryan Catanzaro\\
+[[pdf](https://openreview.net/forum?id=FpMRFG3z2Q)]\\
+Workshop on Adaptive Experimental Design and Active Learning in the Real World, NeurIPS 2023
+
 **Multi-objective Reinforcement Learning with Adaptive Pareto Reset for Prefix Adder Design**\\
 Jialin Song, Rajarshi Roy, Jonathan Raiman, Robert Kirby, Neel Kant, Saad Godil, Bryan Catanzaro\\
+[[pdf](http://mlforsystems.org/assets/papers/neurips2022/paper20.pdf)]\\
 Workshop on ML for Systems, NeurIPS 2022
 
 **Learning Region of Interest for Bayesian Optimization with Adaptive Level-Set Estimation**\\
@@ -82,3 +91,8 @@ Workshop on Machine Learning for Molecules and Materials, NeurIPS 2018
 Jialin Song\*, Ravi Lanka\*, Albert Zhao, Yisong Yue, Masahiro Ono\\
 [[pdf](https://lld-workshop.github.io/2017/papers/LLD_2017_paper_18.pdf)]\\
 Workshop on Learning with Limited Labeled Data, NeurIPS 2017
+
+### Pre-print
+**Learning to Search via Retrospective Imitation**\\
+Jialin Song\*, Ravi Lanka\*, Albert Zhao, Aadyot Bhatnagar, Yisong Yue, Masahiro Ono\\
+[[arxiv](https://arxiv.org/abs/1804.00846)][[colab](https://colab.research.google.com/drive/1AaxzBHroaARlpYH158RohJ4yloYLE_2i?usp=sharing)]
