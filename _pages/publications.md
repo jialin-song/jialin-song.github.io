@@ -5,8 +5,14 @@ title: publications
 ---
 
 ### Conference Publications
+**Nemotron-CORTEXA: Enhancing LLM Agents for Software Engineering Tasks via Improved Localization and Solution Diversity**\\
+Atefeh Sohrabizadeh\*, Jialin Song\*, Mingjie Liu, Rajarshi Roy, Chankyu Lee, Jonathan Raiman, Bryan Catanzaro\\
+[[pdf](https://openreview.net/forum?id=k6p8UKRdH7)][[blog](https://research.nvidia.com/labs/adlr/cortexa/)]\\
+ICML 2025
+
 **CircuitVAE: Efficient and Scalable Latent Circuit Optimization**\\
 Jialin Song\*, Aidan Swope\*, Robert Kirby, Rajarshi Roy, Saad Godil, Jonathan Raiman, Bryan Catanzaro\\
+[[arxiv](https://arxiv.org/abs/2406.09535)]\\
 Design Automation Conference (DAC) 2024
 
 **Learning Regions of Interest for Bayesian Optimization with Adaptive Level-Set Estimation**\\
