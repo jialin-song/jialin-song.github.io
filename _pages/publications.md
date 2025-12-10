@@ -4,11 +4,6 @@ permalink: /publications/
 title: selected publications
 ---
 
-**CircuitVAE: Efficient and Scalable Latent Circuit Optimization**\\
-Jialin Song\*, Aidan Swope\*, Robert Kirby, Rajarshi Roy, Saad Godil, Jonathan Raiman, Bryan Catanzaro\\
-[[arxiv](https://arxiv.org/abs/2406.09535)]\\
-Design Automation Conference (DAC) 2024
-
 **Learning Regions of Interest for Bayesian Optimization with Adaptive Level-Set Estimation**\\
 Fengxue Zhang, Jialin Song, James C Bowden, Alexander Ladd, Yisong Yue, Thomas Desautels, Yuxin Chen\\
 [[pdf](https://openreview.net/pdf?id=6aB43K50T0)]\\
